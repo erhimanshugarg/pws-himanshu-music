@@ -1,1 +1,1 @@
-This folder contains all the Page Related Components.
+#This folder contains all the Page Related Components.
